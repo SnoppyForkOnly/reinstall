@@ -184,7 +184,7 @@ function Start() {
   SYSMIRROR27='http://disk.29296819.xyz/d/dd/os/laosiji/Win7/guajibao/guajibao-win7-sp1-ent-x86-cn-aliyun.vhd.gz'
   SYSMIRROR28='http://disk.29296819.xyz/d/dd/os/laosiji/Win7/guajibao/VirtAll-win7-sp1-ent/VirtAll-win7-sp1-ent-x64-cn.vhd.gz'
   SYSMIRROR29='http://disk.29296819.xyz/d/dd/os/laosiji/Win7/guajibao/guajibao-win7-sp1-ent-x64-cn-efi.vhd.gz'
-  SYSMIRROR30='https://huggingface.co/HirCoir/dd-windows/resolve/main/guajibao-win10-ent-ltsc-2021-x64-cn-efi.vhd.gz'
+  SYSMIRROR30='https://drive.chen-dong.com/Operating%20System/nat.ee/win/guajibao/guajibao-win10-ent-ltsc-2021-x64-cn/guajibao-win10-ent-ltsc-2021-x64-cn.vhd.gz'
   SYSMIRROR31='http://disk.29296819.xyz/d/dd/os/laosiji/Win10/guajibao/guajibao-win10-ent-ltsc-2021-x64-cn-aliyun.vhd.gz'
   SYSMIRROR32='http://disk.29296819.xyz/d/dd/os/laosiji/Win10/guajibao/guajibao-win10-ent-ltsc-2021-x64-cn-efi.vhd.gz'
   SYSMIRROR33='http://disk.29296819.xyz/d/dd/os/laosiji/WinSrv2003/10G/WinSrv2003x86-Chinese-C10G.vhd.gz'
